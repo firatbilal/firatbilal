@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Fırat 👋
 
-<!--
-**firatbilal/firatbilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student passionate about building software and improving problem-solving skills through real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 2nd year Software Engineering student at Kırklareli University
+- 💻 Interested in software development and modern technologies
+- 🌱 Currently improving my backend and web development skills
+- ⚡ Focused on writing clean and maintainable code
+- 📚 Continuously learning and building new projects
+
+---
+
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,php,javascript,git,github,vscode" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:firatbilalcoskun@outlook.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="www.linkedin.com/in/fırat-bilal-coşkun-0196b5330">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## 💭 Favorite Quote
+
+> “If it works, don’t touch it.”
