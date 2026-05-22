@@ -29,6 +29,7 @@ Software Engineering student passionate about building software and improving pr
     <img src="https://skillicons.dev/icons?i=outlook" />
   </a>
 
+
   <a href="https://www.linkedin.com/in/fırat-bilal-coşkun-0196b5330/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
