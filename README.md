@@ -26,7 +26,7 @@ Software Engineering student passionate about building software and improving pr
 
 <p align="left">
   <a href="mailto:firatbilalcoskun@outlook.com">
-    <img src="https://skillicons.dev/icons?i=outlook" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 
 
