@@ -29,7 +29,7 @@ Software Engineering student passionate about building software and improving pr
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/firat-bilal-coskun/">
+  <a href="https://www.linkedin.com/in/firat-bilal-coskun-0196b5330/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
