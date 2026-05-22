@@ -26,7 +26,7 @@ Software Engineering student passionate about building software and improving pr
 
 <p align="left">
   <a href="mailto:firatbilalcoskun@outlook.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=outlook" />
   </a>
 
   <a href="https://www.linkedin.com/in/fırat-bilal-coşkun-0196b5330/">
